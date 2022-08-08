@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Visuals](#visuals)
 - [Resources](#resources)
 
 ## Description

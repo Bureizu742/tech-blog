@@ -2,8 +2,9 @@
   "name": "tech-blog",
   "version": "1.0.0",
   "description": "<!-- Provided Instructions -->\r # 14 Model-View-Controller (MVC): Tech Blog",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
